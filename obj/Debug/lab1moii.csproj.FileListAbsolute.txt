@@ -1,0 +1,7 @@
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\bin\Debug\lab1moii.exe.config
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\bin\Debug\lab1moii.exe
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\bin\Debug\lab1moii.pdb
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\obj\Debug\lab1moii.csprojAssemblyReference.cache
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\obj\Debug\lab1moii.csproj.CoreCompileInputs.cache
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\obj\Debug\lab1moii.exe
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\obj\Debug\lab1moii.pdb

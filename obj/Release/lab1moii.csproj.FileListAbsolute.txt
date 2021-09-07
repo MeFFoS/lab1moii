@@ -1,0 +1,13 @@
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\bin\Release\lab1moii.exe.config
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\bin\Release\lab1moii.exe
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\bin\Release\lab1moii.pdb
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\obj\Release\lab1moii.csproj.CoreCompileInputs.cache
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\obj\Release\lab1moii.exe
+C:\Users\MeFFoS\source\repos\lab1moii\lab1moii\obj\Release\lab1moii.pdb
+C:\Users\MeFFoS\Downloads\csharp\lab1moii\lab1moii\bin\Release\lab1moii.exe.config
+C:\Users\MeFFoS\Downloads\csharp\lab1moii\lab1moii\bin\Release\lab1moii.exe
+C:\Users\MeFFoS\Downloads\csharp\lab1moii\lab1moii\bin\Release\lab1moii.pdb
+C:\Users\MeFFoS\Downloads\csharp\lab1moii\lab1moii\obj\Release\lab1moii.csproj.AssemblyReference.cache
+C:\Users\MeFFoS\Downloads\csharp\lab1moii\lab1moii\obj\Release\lab1moii.csproj.CoreCompileInputs.cache
+C:\Users\MeFFoS\Downloads\csharp\lab1moii\lab1moii\obj\Release\lab1moii.exe
+C:\Users\MeFFoS\Downloads\csharp\lab1moii\lab1moii\obj\Release\lab1moii.pdb
